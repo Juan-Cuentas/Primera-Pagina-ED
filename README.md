@@ -1,2 +1,2 @@
-# Primera-Pagina-ED
+# primerapagina-ED
 Página de ensayo para Edición Digital 
