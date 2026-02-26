@@ -1,22 +1,22 @@
 body {
-    background-color: #ffaaff;
-    color: whitesmoke;
+    background-color: #5b0b09;
+    color: rgb(214, 119, 176);
 }
 
 img{
-    width:200px;
+    width: 450px;
     height:auto;
 }
 
 p{
-    font-family:Arial, Helvetica, sans-serif;
-font-size: 0.9em;
+    font-family:'Times New Roman', Times, serif;
+font-size: 1.0em;
 
 }
 
 .subparrafo{
-    font-size:1.2em;
-    color: magenta;
+    font-size:1.5em;
+    color: rgb(152, 148, 225);
 }
 
 final{
