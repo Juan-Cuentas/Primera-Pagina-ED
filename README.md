@@ -2,13 +2,13 @@
 
 ### Sobre Mí.
 
-Heya, mi nobre es Juan Cuentas. Un estudiante de Estudios Literarios y Edición que está experimentando en este portal. Mediante mis gustos, busco programar una página sobre un texto de interes, transmitir mi forma de ver el arte y quizá, *solo quizá* , darme a conocer.  
+Heya, mi nombre es Juan Cuentas. Un estudiante de Estudios Literarios y Edición que está experimentando en este portal. Mediante mis gustos, busco programar una página sobre un texto de interes, transmitir mi forma de ver el arte y quizá, *solo quizá* , darme a conocer.  
 
 ### Mis Intereses. 
 
-Acerca de ello, claro. Me gusta ***mucho*** jugar videojuegos. Entre mis géneros favoritos estan los Roguelikes, los Roguelites y los Metroidvania. Claro, tambien me gustan los Shooters, los Dating-Sim, los RPG´S, los fantasiosos y bueno, un mundo más de géneros que se pueden descubrir. Entre mis juegos favoritos es fácil encontrar juegos como Genshin Impact, Hollow Knight: Silksong, Hollow Knight, Honkai: Star Rail, The Binding of Issac y Omori.
+Acerca de ello, claro. Me gusta ***mucho*** jugar videojuegos. Entre mis géneros favoritos estan los Roguelikes, los Roguelites y los Metroidvania. Claro, tambien me gustan los Shooters, los Dating-Sim, los RPG´S, los fantasiosos y bueno, un mundo más de géneros que se pueden descubrir. Entre mis favoritos es fácil encontrar juegos como Genshin Impact, Hollow Knight: Silksong, Hollow Knight, Honkai: Star Rail, The Binding of Issac y Omori.
 
-Tiempo atras jugaba mucho los juegos de Lego en la PlayStation 3, juegos como el Lego Batman 3, Lego Indiana Jones e incluso toda la trilogia de Lego StarWars. 
+Tiempo atras jugaba mucho los juegos de Lego en la PlayStation 3, tales como el Lego Batman 3, Lego Indiana Jones e incluso toda la trilogia de Lego StarWars. 
 
 Les dejo abajo una foto de mi juego favorito. 
 
